@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.content-item:last-child {
+/* .content-item:last-child {
     display: block;
-}
+} */
 textarea {
     resize: none;
     -webkit-box-shadow: none;
@@ -14,7 +14,3 @@ textarea {
     overflow: auto;
     outline: none;
 }
-/* .disable {
-    visibility: hidden;
-} */
-
